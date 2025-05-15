@@ -46,7 +46,7 @@ README.md
 ### 1. 系統需求
 
 - .NET 6 SDK
-- Windows / macOS / Linux
+- Windows
 
 ---
 
@@ -55,5 +55,5 @@ README.md
 1. **下載專案：**
 
    ```bash
-   git clone [YOUR_REPOSITORY_URL]
+   git clone https://github.com/Peter-1119/C_Sharp_DLL_Project.git
    cd MyProject_1
