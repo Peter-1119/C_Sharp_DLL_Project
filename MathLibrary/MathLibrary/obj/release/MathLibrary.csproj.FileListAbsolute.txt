@@ -1,0 +1,6 @@
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibrary\MathLibrary\bin\Release\MathLibrary.dll
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibrary\MathLibrary\bin\Release\MathLibrary.pdb
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibrary\MathLibrary\obj\release\MathLibrary.csproj.AssemblyReference.cache
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibrary\MathLibrary\obj\release\MathLibrary.csproj.CoreCompileInputs.cache
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibrary\MathLibrary\obj\release\MathLibrary.dll
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibrary\MathLibrary\obj\release\MathLibrary.pdb

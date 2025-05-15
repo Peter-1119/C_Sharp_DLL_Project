@@ -1,0 +1,9 @@
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\bin\Debug\MathLibraryTest.exe.config
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\bin\Debug\MathLibraryTest.exe
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\bin\Debug\MathLibraryTest.pdb
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\obj\Debug\MathLibraryTest.csproj.AssemblyReference.cache
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\obj\Debug\MathLibraryTest.csproj.CoreCompileInputs.cache
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\obj\Debug\MathLibr.E6560FFC.Up2Date
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\obj\Debug\MathLibraryTest.exe
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\obj\Debug\MathLibraryTest.pdb
+D:\Program_Scripts\C_Sharp\MyProject_1\MathLibraryTest\MathLibraryTest\obj\Debug\MathLibraryTest.exe.config
