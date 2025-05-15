@@ -12,17 +12,18 @@ MathLibrary/
 ├── MathLibrary.csproj
 ├── MathOperations.cs
 ├── bin/
-│ └── Debug/
-│   └── MathLibrary.dll
+│   └── Debug/
+│       └── MathLibrary.dll
+
 MathLibraryTest/
 ├── MathLibraryTest.csproj
 ├── Program.cs
-├── MathLibrary.dll
 ├── bin/
-│ └── Debug/
-│ └── MathLibraryTest.exe
-│ └── log.txt
-│ └── MathLibrary.dll
+│   └── Debug/
+│       └── MathLibraryTest.exe
+│       └── log.txt
+│       └── MathLibrary.dll
+
 build_and_run.bat
 README.md
 
