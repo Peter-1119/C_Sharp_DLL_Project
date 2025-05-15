@@ -8,6 +8,7 @@ MathLibrary 是一個簡單的數學計算 SDK，提供基本的加法、減法�
 
 ## 📂 檔案結構
 
+```
 MathLibrary/
 ├── MathLibrary.csproj
 ├── MathOperations.cs
@@ -26,6 +27,7 @@ MathLibraryTest/
 
 build_and_run.bat
 README.md
+```
 
 ---
 
